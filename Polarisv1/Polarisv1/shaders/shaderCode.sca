@@ -1,0 +1,22 @@
+//==============================================================================
+// Welcome to shader authoring in Spark AR Studio!
+//==============================================================================
+
+#import <gradients>
+#import <sdf>
+precision highp float;
+
+void main(in function<vec4(vec2)> texA, out vec4 Color) {
+  vec2 uv = fragment(std::getVertexTexCoord());
+ vec3 col = vec3(0.0);
+ float scaled = 1.0;
+    for( int i=0; i<120; i++ )
+    {
+    scaled -= 0.0002;
+        uv -= 0.5;
+        uv *= scaled;
+        uv += 0.5;
+        col += smoothstep(0.0,1.0,(texA(uv)*0.08).rgb );
+    }
+  Color = vec4(col,1.0);
+}
