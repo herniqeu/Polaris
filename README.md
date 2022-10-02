@@ -33,7 +33,7 @@ Stellar Variability AR é um filtro que consiste na tecnologia de realidade aume
 --> Renderização (de cenas e objetos, permitindo editá-las)
 <br>
 
-Através da tecnologia de realidade aumentada, foi implementado um plano tridimensional onde será recebido uma imagem 3D sobre o plano espacial onde a câmera do dispositivo será apontada, além de informações sobre três estrelas. Devido ao fato de introduzir o filtro através de plataformas populares com grande número de usuários ativos diariamente. Sendo assim, conta-se com a facilidade de aprendizado onde cada usuário consegue interagir facilmente com o produto, realizando diversas tarefas sem se desviar do caminho, mantendo uma aprendizagem consistente e compreensível. Desse modo, acredita-se obter uma boa eficiência e eficácia para alcançar um alto nível de satisfação do usuário.
+Através da tecnologia de realidade aumentada, foi implementado um plano tridimensional onde será recebido uma imagem 3D sobre o plano espacial onde a câmera do dispositivo será apontada, além de informações sobre três estrelas. Devido ao fato de introduzir o filtro através de plataformas populares com grande número de usuários ativos diariamente, leva-se em conta a facilidade de aprendizado onde cada usuário consegue interagir facilmente com o produto, realizando diversas tarefas sem se desviar do caminho, mantendo uma aprendizagem consistente e compreensível. Desse modo, acredita-se obter uma boa eficiência e eficácia para alcançar um alto nível de satisfação do usuário.
 
 ## 📈 Exemplo de uso
 Ao acessar a plataforma Instagram, acesse os stories e role para o lado e encontre o filtro, toque no filtro e aponte a câmera do seu dispositivo para um local amplo para visualizar a realidade aumentada e interagir com a ferramenta. Se não tiver fácil acesso ao filtro, pesquise o nome, que aparecerá postagens, toque em uma das postagens e clique no nome do filtro, assim o Instagram mostrará opções de uso.
@@ -42,3 +42,4 @@ Ao acessar a plataforma Instagram, acesse os stories e role para o lado e encont
 Para usar esta ferramenta, você necessita ter uma aplicação baixada e uma conta logada em uma das plataformas do META como Instagram ou Facebook.
 
 ## 🎓 Referências
+1. <https://sparkar.facebook.com/ar-studio/>
