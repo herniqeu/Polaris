@@ -4,7 +4,7 @@
    <img src="https://user-images.githubusercontent.com/95002561/193434271-c55bdb5c-6a05-4036-950b-d9ab2562496c.png" alt="[YOUR_ALT]"/>
 </p>
 
-# Twinkle, Twinkle, Little Star
+# Challenge Twinkle, Twinkle, Little Star
 
 # Stellar Variability AR
 
